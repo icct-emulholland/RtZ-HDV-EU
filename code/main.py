@@ -7,9 +7,7 @@ Additional figures: a.musa@theicct.org ; Supervisor: Hussein Basma
 
 import sys
 
-
-# Inputs to be defined
-# some error
+# Define the path to the code directory
 folder_location = r"/Users/e.mulholland/Documents/Work 2025/EU/RtZ/Q1/RtZ_formatter_folder2025"
 code_directory = folder_location + "/code"
 input_file_name = "Dataforce ICCT CV 2025Q1.csv"
