@@ -7,6 +7,7 @@ Additional figures: a.musa@theicct.org ; Supervisor: Hussein Basma
 
 import sys
 
+
 # Inputs to be defined
 # some error
 folder_location = r"/Users/e.mulholland/Documents/Work 2025/EU/RtZ/Q1/RtZ_formatter_folder2025"
